@@ -23,5 +23,3 @@ A clean, minimal, and responsive to-do list application built with **HTML**, **C
 
 
 ---
-
-http://127.0.0.1:5500/.vscode/cli/index.html
