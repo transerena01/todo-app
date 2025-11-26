@@ -18,7 +18,9 @@ This app lets you add, edit, delete, and complete tasks — with progress tracki
 
 ---
 
-## 🖥️ Pictures
-<img src="https://ibb.co/x8wzXnx0" alt="picture">
+## 🖥️ Picture
+<img src= "https://i.imghippo.com/files/R1931Hw.png" alt= "screenshot">
+
+
 
 ---
