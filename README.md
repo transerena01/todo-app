@@ -1,7 +1,6 @@
 # To-Do List App
 
 A clean, minimal, and responsive to-do list application built with **HTML**, **CSS**, and **JavaScript**.  
-This app lets you add, edit, delete, and complete tasks — with progress tracking and localStorage persistence.
 
 ---
 
